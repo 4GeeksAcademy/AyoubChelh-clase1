@@ -1,0 +1,75 @@
+
+body{
+    background-color: black;
+}
+.post{
+    background-color: white;
+    width: 400px;
+    height: 550px;
+    margin: auto;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+}
+.perfil{
+    margin: 0px 0px 0px 10px;
+}
+.inf{
+    width: 100%;
+    align-self: center;
+    
+}
+.inf h1{
+    font-size: 15px;
+    margin: 0px 0px 0px 5px;
+}
+.inf p{
+    font-size: 15px;
+    margin: 0px 0px 0px 5px;
+}
+.tresp{
+    margin:0px 0px 0px 10px;
+}
+.inf{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-self: center;
+}
+.post-imag{
+    display: flex;
+    width: 100%;
+}
+.icons{
+    margin: 8px 8px 0px 8px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.ficons{
+    display: flex;
+    align-items: center;
+    height: 45px;
+}
+.lastimg{
+    display: flex;
+    align-items: center;
+    margin: 10px;
+    
+    height: 40px;
+    
+    
+}
+.text1{
+    margin: 0px 13px 10px 13px;
+    font-size: 15px;
+}
+.text1 b{
+    font-weight: bold;
+}
+.text2{
+    margin:10px 10px 30px 13px;
+    font-size: 15px;
+}
